@@ -1,0 +1,9 @@
+../Core/Src/main.c:58:13:log	1
+../Core/Src/main.c:70:5:main	2
+../Core/Src/main.c:133:6:SystemClock_Config	3
+../Core/Src/main.c:172:13:MX_CAN_Init	2
+../Core/Src/main.c:209:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:242:13:MX_GPIO_Init	1
+../Core/Src/main.c:281:13:CAN_ConfigFilter_AcceptAll	1
+../Core/Src/main.c:296:6:HAL_CAN_RxFifo0MsgPendingCallback	3
+../Core/Src/main.c:318:6:Error_Handler	1
